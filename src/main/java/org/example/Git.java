@@ -7,4 +7,5 @@ package org.example;
  * 描述：
  */
 public class Git {
+    String name = "git";
 }
