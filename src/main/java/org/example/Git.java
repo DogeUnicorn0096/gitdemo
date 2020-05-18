@@ -8,4 +8,5 @@ package org.example;
  */
 public class Git {
     String name = "git";
+    int age = 12;
 }
